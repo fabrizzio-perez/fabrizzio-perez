@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java, Python, and Web Development
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on nothing at the moment.
-- 📫 How to reach me ...
+- 📫 How to reach me https://www.linkedin.com/in/fabrizzioperez/
 
 <!---
 fabrizzio-perez/fabrizzio-perez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
